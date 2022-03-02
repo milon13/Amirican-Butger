@@ -374,7 +374,7 @@ padding: 36px;
 .footer{
     background: url(../img/footer/bgfooter.PNG);
     background-repeat: no-repeat;
-    size: cover;
+    background-size: cover;
 }
 .footer-logo{
     display: inline-block;
